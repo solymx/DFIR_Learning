@@ -35,3 +35,9 @@ https://www.sysdig.com/blog/how-threat-actors-are-using-self-hosted-github-actio
 
 還沒讀但蠻有趣的，透過 Github action 放後門
 
+
+---
+
+https://www.f5.com/labs/articles/analyzing-react2shell-threat-actors
+
+分析 react2shell threat actor
