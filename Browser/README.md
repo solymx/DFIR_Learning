@@ -31,5 +31,7 @@ https://www.team-cymru.com/post/analysing-carding-infrastructure
 
 ---
 
+https://www.sysdig.com/blog/how-threat-actors-are-using-self-hosted-github-actions-runners-as-backdoors
 
+還沒讀但蠻有趣的，透過 Github action 放後門
 
